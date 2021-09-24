@@ -106,251 +106,251 @@ const icon_misc = L.icon({
 
 //markers of department buildings
 L.marker([ 22.49631145776672 , 88.37165772914886 ], {icon : icon_dept})
-    .bindPopup("<h1 class='text-center'>DEPARTMENT OF ELECTRICAL ENGINEERING</h1><img src='./images/EE Dept.jpg'/ width='280' height='152''/><a href='deptBEE.html' class='btn btn-light mt-3'>Department Digital Map</a>")
+    .bindPopup("<h1 class='text-center'>Department Of Electrical Engineering</h1><img src='./images/EE Dept.jpg'/ width='280' height='152''/><a href='deptBEE.html' class='btn btn-light mt-3'>Department Digital Map</a>")
     .closePopup()
     .addTo(dept);
 
 L.marker([22.496856639591186 , 88.37314367294312 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF CHEMICAL ENGINEERING</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Chemical Engineering</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.49772149180535 , 88.37304174900055 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF MECHANICAL ENGINEERING</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Mechanical Engineering</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.497466249450643, 88.37108910083771 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF PRODUCTION ENGINEERING</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Production Engineering</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.496792209123875, 88.37100863456726 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF CIVIL ENGINEERING</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Civil Engineering</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.497130468742476, 88.37345078587532 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF FTBE</h1>')
+    .bindPopup('<h1 class="text-center">Department Of FTBE</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.50116845650837, 88.37060093879698 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF PHARMACEUTICAL TECHNOLOGY</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Pharmaceutical Technology</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.50092561062157, 88.36984723806381], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF HISTORY</h1>')
+    .bindPopup('<h1 class="text-center">Department Of History</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.50033769878824, 88.3696648478508 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF ENGLISH</h1>')
+    .bindPopup('<h1 class="text-center">Department Of English</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.500660462074585,88.3711266517639 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF GEOLOGICAL SCIENCE</h1>')
+    .bindPopup('<h1 class="text-center">Department of Geological Science</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.49683123912208,88.37121717631815 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF COMPUTER SCIENCE ENGINEERING</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Computer Science Engineering</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([  22.499019999016742,88.37210834026337 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF METALLURGICAL AND MATERIAL ENGINEERING</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Metallurgical and Materials Engineering</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.500662940100753,88.37037295103073 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF CHEMISTRY</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Chemistry</h1>')
     .closePopup()
     .addTo(dept);
 
 L.marker([ 22.500885962273028,88.37176501750946 ], {icon : icon_dept})
-    .bindPopup('<h1 class="text-center">DEPARTMENT OF MATHEMATICS</h1>')
+    .bindPopup('<h1 class="text-center">Department Of Mathematics</h1>')
     .closePopup()
     .addTo(dept);
 
 //markers of laboratories and workshop
 L.marker([ 22.49735721373809,88.37325766682625 ], {icon : icon_lab})
-    .bindPopup('<h1 class="text-center">HEAT POWER HOUSE</h1>')
+    .bindPopup('<h1 class="text-center">Heat Power House</h1>')
     .closePopup()
     .addTo(dept); 
 
 L.marker([ 22.499711374792128,88.37135195732117 ], {icon : icon_lab})
-    .bindPopup('<h1 class="text-center">NANO DEVICE SIMULATION LABORATORY</h1>')
+    .bindPopup('<h1 class="text-center">Nano Device Simulation Laboratory</h1>')
     .closePopup()
     .addTo(dept); 
 
 L.marker([ 22.49722959228354,88.37139219045639 ], {icon : icon_Workshop})
-    .bindPopup('<h1 class="text-center">BLUE EARTH MACHINE WORKSHOP</h1>')
+    .bindPopup('<h1 class="text-center">Blue Earth Machine Workshop</h1>')
     .closePopup()
     .addTo(dept);
 
 //markers of canteens
 L.marker([ 22.496711670997534,88.37232828140259 ], {icon : icon_canteen})
-    .bindPopup('<h1 class="text-center">JU STAFF CANTEEN (AAHAR)</h1>')
+    .bindPopup('<h1 class="text-center">JU Staff Canteen (Aahar)</h1>')
     .closePopup()
     .addTo(canteen);
 
 L.marker([ 22.50092313260012,88.37033405900002 ], {icon : icon_canteen})
-    .bindPopup("<h1 class='text-center'>MILAN DA's CANTEEN (ALAPAN)</h1><img src='./images/milan da canteen.jpg'/ width='228' height='152''/><a href='canteen.html' class='btn btn-light mt-3'>Explore Canteens</a>")
+    .bindPopup("<h1 class='text-center'>Milan Da's Canteen (Alapan)</h1><img src='./images/milan da canteen.jpg'/ width='280' height='152''/><a href='canteen.html' class='btn btn-light mt-3'>Explore Canteens</a>")
     .closePopup()
     .addTo(canteen);
 
 L.marker([  22.49991705222327,88.37098449468611 ], {icon : icon_canteen})
-    .bindPopup('<h1 class="text-center">AC CANTEEN</h1>')
+    .bindPopup('<h1 class="text-center">AC Canteen</h1>')
     .closePopup()
     .addTo(canteen);
 
 L.marker([ 22.498660680492886,88.37217271327971 ], {icon : icon_canteen})
-    .bindPopup('<h1 class="text-center">SURUCHI CANTEEN</h1>')
+    .bindPopup('<h1 class="text-center">Suruchi Canteen</h1>')
     .closePopup()
     .addTo(canteen);
 
 L.marker([ 22.495880266984035,88.37177038192748 ], {icon : icon_canteen})
-    .bindPopup('<h1 class="text-center">CET CANTEEN</h1>')
+    .bindPopup('<h1 class="text-center">CET Canteen</h1>')
     .closePopup()
     .addTo(canteen);
 
 //markers of administrative buildings
 L.marker([ 22.499111687042337,88.37042659521103 ], {icon : icon_admin})
-    .bindPopup('<h1 class="text-center">TEQIP BUILDING</h1>')
+    .bindPopup('<h1 class="text-center">TEQIP Building</h1>')
     .closePopup()
     .addTo(admin);
 
 L.marker([ 22.49662369852905,88.37247312068939 ], {icon : icon_admin})
-    .bindPopup("<h1 class='text-center'>AUROBINDO BHAVAN</h1><img src='./images/aurobindo bhavan.jpg'/ width='228' height='152''/>")
+    .bindPopup("<h1 class='text-center'>Aurobindo Bhavan</h1><img src='./images/aurobindo bhavan.jpg'/ width='228' height='152''/>")
     .closePopup()
     .addTo(admin);
 
 L.marker([ 22.499560214075466,88.37088793516159 ], {icon : icon_admin})
-    .bindPopup('<h1 class="text-center">GANDHI BHAVAN</h1>')
+    .bindPopup('<h1 class="text-center">Gandhi Bhavan</h1>')
     .closePopup()
     .addTo(admin);
 
 L.marker([ 22.49695576332845,88.37149143218994 ], {icon : icon_admin})
-    .bindPopup('<h1 class="text-center">DOEACC SOCIETY</h1>')
+    .bindPopup('<h1 class="text-center">DOEACC Society</h1>')
     .closePopup()
     .addTo(admin);
 
 L.marker([ 22.498764759057895,88.37143242359161 ], {icon : icon_library})
-    .bindPopup('<h1 class="text-center">CENTRAL LIBRARY</h1>')
+    .bindPopup('<h1 class="text-center">Central Library</h1>')
     .closePopup()
     .addTo(admin);
 
 //markers of landmarks
 L.marker([ 22.501961419700187,88.37114810943604 ], {icon : icon_special})
-    .bindPopup("<h1 class='text-center'>OPEN AIR THEATRE</h1><img src='./images/open air theatre.jpg'/ width='228' height='152''/>")
+    .bindPopup("<h1 class='text-center'>Open Air Theatre</h1><img src='./images/open air theatre.jpg'/ width='228' height='152''/>")
     .closePopup()
     .addTo(landmark);
 
 L.marker([ 22.497881327797398,88.37091878056526 ], {icon : icon_special})
-    .bindPopup('<h1 class="text-center">INDOOR STADIUM</h1>')
+    .bindPopup('<h1 class="text-center">Indoor Stadium</h1>')
     .closePopup()
     .addTo(landmark);
 
 L.marker([ 22.498358356598086,88.37149679660797 ], {icon : icon_special})
-    .bindPopup('<h1 class="text-center">DR. TRIGUNA SEN AUDITORIUM</h1>')
+    .bindPopup('<h1 class="text-center">Dr. Triguna Sen Auditorium</h1>')
     .closePopup()
     .addTo(landmark);
 
 L.marker([ 22.49752572343945 , 88.37220758199692 ], {icon : icon_playground})
-    .bindPopup("<h1 class='text-center'>JU PLAYGROUND</h1><img src='./images/playground.JPG'/ width='228' height='152''/>")
+    .bindPopup("<h1 class='text-center'>JU Playground</h1><img src='./images/playground.JPG'/ width='228' height='152''/>")
     .closePopup()
     .addTo(landmark);
 
 L.marker([ 22.498407917937595,88.37039172649384 ], {icon : icon_park})
-    .bindPopup('<h1 class="text-center">GREEN ZONE</h1>')
+    .bindPopup('<h1 class="text-center">Green Zone</h1>')
     .closePopup()
     .addTo(landmark);
 
 L.marker([ 22.49881679831102,88.37255358695984 ], {icon : icon_park})
-    .bindPopup('<h1 class="text-center">JHEEL PAR</h1>')
+    .bindPopup('<h1 class="text-center">Jheel Par</h1>')
     .closePopup()
     .addTo(landmark);
 
 //markers of vaccination centres
 L.marker([ 22.501143676335378, 88.37151691317558 ], {icon : icon_vaccine})
-    .bindPopup('<h1 class="text-center">VACCINATION CENTRE 1</h1>')
+    .bindPopup('<h1 class="text-center">Vaccination Centre 1</h1>')
     .closePopup()
     .addTo(vaccine);
 
 L.marker([ 22.49604258321224, 88.3710877597332 ], {icon : icon_vaccine})
-    .bindPopup('<h1 class="text-center">VACCINATION CENTRE 2</h1>')
+    .bindPopup('<h1 class="text-center">Vaccination Centre 2</h1>')
     .closePopup()
     .addTo(vaccine);
 
 //markers of miscellaneous buildings
 L.marker([ 22.501282445246975, 88.36893260478973 ], {icon : icon_misc})
-    .bindPopup('<h1 class="text-center">ACHARYA PRAFULLA CHANDRA ROY POLYTECHNIC</h1>')
+    .bindPopup('<h1 class="text-center">Acharya Prafulla Chandra Roy Polytechnic</h1>')
     .closePopup()
     .addTo(misc);
 
 L.marker([ 22.502229043751353, 88.36904793977737 ], {icon : icon_misc})
-    .bindPopup('<h1 class="text-center">CENTRAL GLASS AND CERAMIC RESEARCH INSTITUTE</h1>')
+    .bindPopup('<h1 class="text-center">Central Glass and Ceramic Research Institute</h1>')
     .closePopup()
     .addTo(misc);
 
 L.marker([ 22.500615857596177, 88.36941272020339 ], {icon : icon_misc})
-    .bindPopup('<h1 class="text-center">REGIONAL INSTITUE OF PRINTING TECHNOLOGY</h1>')
+    .bindPopup('<h1 class="text-center">Regional Institute Of Printing Technology</h1>')
     .closePopup()
     .addTo(misc);
 
 L.marker([ 22.499899705945708,88.37203592061996 ], {icon : icon_misc})
-    .bindPopup('<h1 class="text-center">SCHOOL OF COGNITIVE SCIENCE</h1>')
+    .bindPopup('<h1 class="text-center">School Of Cognitive Science</h1>')
     .closePopup()
     .addTo(misc);
 
 L.marker([ 22.49807585662384,88.37042123079299 ], {icon : icon_misc})
-    .bindPopup('<h1 class="text-center">INSTITUTE OF CHEMICAL ENGINEERS</h1>')
+    .bindPopup('<h1 class="text-center">Institute Of Chemical Engineers</h1>')
     .closePopup()
     .addTo(misc);
 
 L.marker([ 22.49934958001451,88.37006986141205 ], {icon : icon_misc})
-    .bindPopup('<h1 class="text-center">JADAVPUR VIDYAPITH</h1>')
+    .bindPopup('<h1 class="text-center">Jadavpur Vidyapith</h1>')
     .closePopup()
     .addTo(misc);
 
 L.marker([ 22.497679364458865,88.37040781974792 ], {icon : icon_postoffice})
-    .bindPopup('<h1 class="text-center">JADAVPUR UNIVERSITY SUB POST OFFICE</h1>')
+    .bindPopup('<h1 class="text-center">Jadavpur University Sub Post Office</h1>')
     .closePopup()
     .addTo(misc);
 
 //markers of shops
 L.marker([ 22.500744714939003,88.36995452642441 ], {icon : icon_shops})
-    .bindPopup('<h1 class="text-center">WORLDVIEW BOOK SHOP</h1>')
+    .bindPopup('<h1 class="text-center">Worldview Book Shop</h1>')
     .closePopup()
     .addTo(misc);
 
 //markers of gyms
 L.marker([ 22.49939914099889, 88.37139219045639 ], {icon : icon_gym})
-    .bindPopup('<h1 class="text-center">GYMNASIUM, JU</h1>')
+    .bindPopup('<h1 class="text-center">Gymnasium, JU</h1>')
     .closePopup()
     .addTo(misc);
 
 //markers of gates
 L.marker([ 22.49607386933359, 88.37256699800491 ], {icon : icon_gate})
-    .bindPopup('<h1 class="text-center">GATE NO. 1</h1>')
+    .bindPopup('<h1 class="text-center">Gate No. 1</h1>')
     .closePopup()
     .addTo(gates);
 
 L.marker([ 22.4957795936552, 88.37081249803305 ], {icon : icon_gate})
-    .bindPopup('<h1 class="text-center">GATE NO. 2</h1>')
+    .bindPopup('<h1 class="text-center">Gate No. 2</h1>')
     .closePopup()
     .addTo(gates);
 
 L.marker([22.498080503009664, 88.37015770375729 ], {icon : icon_gate})
-    .bindPopup('<h1 class="text-center">GATE NO. 3</h1>')
+    .bindPopup('<h1 class="text-center">Gate No. 3</h1>')
     .closePopup()
     .addTo(gates);
 
 L.marker([ 22.499759696625723, 88.36937248706816 ], {icon : icon_gate})
-    .bindPopup('<h1 class="text-center">GATE NO. 4</h1>')
+    .bindPopup('<h1 class="text-center">Gate No. 4</h1>')
     .closePopup()
     .addTo(gates);
 
