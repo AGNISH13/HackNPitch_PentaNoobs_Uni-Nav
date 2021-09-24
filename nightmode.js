@@ -12,7 +12,7 @@ var grayscale = L.tileLayer(mbUrl, {
 
 //icons for the well lit areas 
 const icon_lit = L.icon({
-    iconUrl: '/icons/Well-lit.svg',
+    iconUrl: 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Well-lit.svg',
     iconSize: [30,30],
 });
 
