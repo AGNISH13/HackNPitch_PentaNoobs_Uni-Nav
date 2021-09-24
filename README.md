@@ -22,9 +22,9 @@ A customized campus map with departmental digital blueprint and all other campus
 
   
 ## Demo
-For screenshot: https://drive.google.com/drive/folders/1T6yWMVfr5ifNxLTBA0COfnASz9maxCj6?usp=sharing
+For screenshot: [Click here](https://drive.google.com/drive/folders/1T6yWMVfr5ifNxLTBA0COfnASz9maxCj6?usp=sharing)
 
-For video: https://drive.google.com/file/d/1lgP22T8CuzKIwbstm6QvM07iCG_LEpHC/view?usp=sharing
+For video: [Click here](https://youtu.be/Fd7I88mcFC0)
 
   
 ## Deployment
