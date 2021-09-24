@@ -27,3 +27,5 @@ For screenshot: https://drive.google.com/drive/folders/1T6yWMVfr5ifNxLTBA0COfnAS
 For video: https://drive.google.com/file/d/1lgP22T8CuzKIwbstm6QvM07iCG_LEpHC/view?usp=sharing
 
   
+## Deployment
+For deploying the website, download the files from this repository and open them on VS Code.Open the proj_html.html file on a new window and press Go Live to host the website on live server.
