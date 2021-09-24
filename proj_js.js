@@ -23,83 +23,83 @@ var gates=L.layerGroup();//gates
 //icons for departments and laboratories 
 
 const icon_dept = L.icon({
-    iconUrl: '/icons/Dept.svg',
+    iconUrl: 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Dept.svg',
     iconSize: [70,70],
 });
 
 const icon_lab = L.icon({
-    iconUrl: '/icons/Labs.svg',
+    iconUrl: 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Labs.svg',
     iconSize: [40,40],
 });
 
 const icon_Workshop = L.icon({
-    iconUrl : '/icons/Workshops.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Workshops.svg',
     iconSize: [30,30],
 });
 
 //icons for canteens
 const icon_canteen = L.icon({
-    iconUrl: '/icons/Canteen.svg',
+    iconUrl: 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Canteen.svg',
     iconSize: [30,30],
 });
 
 //icons for administrative buildings
 const icon_admin = L.icon({
-    iconUrl: '/icons/Admin.svg',
+    iconUrl: 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Admin.svg',
     iconSize: [30,30],
 });
 
 const icon_library = L.icon({
-    iconUrl : '/icons/Library.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Library.svg',
     iconSize: [30,30],
 });
 
 //icons for landmarks
 const icon_park = L.icon({
-    iconUrl : '/icons/Parks and Rec.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Parks and Rec.svg',
     iconSize: [30,30],
 });
 
 const icon_special = L.icon({
-    iconUrl: '/icons/Special Buildings.svg',
+    iconUrl: 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Special Buildings.svg',
     iconSize: [30,30],
 });
 
 const icon_playground = L.icon({
-    iconUrl : '/icons/Playground.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Playground.svg',
     iconSize: [30,30],
 });
 
 
 //icons for vaccine centres
 const icon_vaccine = L.icon({
-    iconUrl: '/icons/Medicine.svg',
+    iconUrl: 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Medicine.svg',
     iconSize: [30,30],
 });
 
 //icons for miscellaneous
 const icon_shops = L.icon({
-    iconUrl : '/icons/Shops.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Shops.svg',
     iconSize: [30,30],
 });
 
 const icon_gym = L.icon({
-    iconUrl : '/icons/Gym.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Gym.svg',
     iconSize: [30,30],
 });
 
 const icon_postoffice = L.icon({
-    iconUrl : '/icons/Post Office.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Post Office.svg',
     iconSize: [30,30],
 });
 
 const icon_gate = L.icon({
-    iconUrl : '/icons/Gates.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Gates.svg',
     iconSize: [20,20],
 });
 
 const icon_misc = L.icon({
-    iconUrl : '/icons/Misc.svg',
+    iconUrl : 'https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Misc.svg',
     iconSize: [30,30],
 });
 
@@ -376,12 +376,12 @@ map.options.maxZoom = 18;
 
 //for the creating filter options
 var overlays = {
-	"<img src='/icons/Department.svg' width=30 height=30 /> Departments & Labs": dept,
-    "<img src='/icons/Canteen.svg' width=30 height=30 /> Canteens": canteen,
-    "<img src='/icons/Admin.svg' width=30 height=30 /> Administrative buildings": admin,
-    "<img src='/icons/Special Buildings.svg' width=30 height=30 />Landmarks": landmark,
-    "<img src='/icons/Medicine.svg' width=30 height=30 />Vaccination Centres": vaccine,
-    "<img src='/icons/Misc.svg' width=30 height=30 />Miscelleneous Buildings":misc,
+    "<img src='https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Department.svg' width=30 height=30 /> Departments & Labs": dept,
+    "<img src='https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Canteen.svg' width=30 height=30 /> Canteens": canteen,
+    "<img src='https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Admin.svg' width=30 height=30 /> Administrative buildings": admin,
+    "<img src='https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Special Buildings.svg' width=30 height=30 />Landmarks": landmark,
+    "<img src='https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Medicine.svg' width=30 height=30 />Vaccination Centres": vaccine,
+    "<img src='https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/icons/Misc.svg' width=30 height=30 />Miscelleneous Buildings":misc,
 };
 
 L.control.layers(null,overlays,{
