@@ -28,4 +28,6 @@ For video: https://drive.google.com/file/d/1lgP22T8CuzKIwbstm6QvM07iCG_LEpHC/vie
 
   
 ## Deployment
-For deploying the website, download the files from this repository and open them on VS Code.Open the index.html file on a new window and press Go Live to host the website on live server.
+You can see our Website [here](https://agnish13.github.io/HackNPitch_PentaNoobs_Uni-Nav/index.html)
+
+For deploying the website on your own, download the files from this repository and open them on VS Code.Open the index.html file on a new window and press Go Live to host the website on live server.
