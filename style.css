@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@media (min-width:992px){
+    .p-4{
+        position: fixed;
+        bottom:0; 
+        width: 100%;
+    }
+}
