@@ -15,7 +15,7 @@ A customized campus map with departmental digital blueprint and all other campus
 ## Authors
 
  - [Agnish Bhattarcharya](https://github.com/AGNISH13)
- - [Biswajit Saha](https://github.com/Raj1411)
+ - [Biswajit Saha](https://github.com/raj-1411)
  - [Rohit Bhar](https://github.com/BRohit31)
  - [Anirban Ghosh](https://github.com/anirbang2002)
  - [Anirban Mukherjee](https://github.com/anirbanm1728)
