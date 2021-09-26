@@ -1,9 +1,9 @@
 //for url,access token and attribute (for multipurpose use)
 var mbAttr = '© <a href="https://www.mapbox.com/feedback/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>';
-var	mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5pcmJhbjIiLCJhIjoiY2t0c2JlZzk5MTI5dTJ1bnFtbzlhMGQ1bSJ9.BTK7hzj6maA_Qud3O7RxjA';
+var mbUrl = 'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5pcmJhbjIiLCJhIjoiY2t0c2JlZzk5MTI5dTJ1bnFtbzlhMGQ1bSJ9.BTK7hzj6maA_Qud3O7RxjA';
 
 //for creating the tile view of the map
-var	streets = L.tileLayer(mbUrl, {
+var streets = L.tileLayer(mbUrl, {
     id: 'mapbox/streets-v11', 
     tileSize: 512, 
     zoomOffset: -1, 
