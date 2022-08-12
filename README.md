@@ -1,5 +1,5 @@
 # Uni-Navigator
-A customized campus map with departmental digital blueprint and all other campus related informations to help the university goers easily navigate their second home.
+A customized campus map with departmental digital blueprint and all other campus related information to help the university goers easily navigate their second home.
 
 
 ## Acknowledgements
